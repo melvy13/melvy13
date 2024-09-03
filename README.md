@@ -1,5 +1,5 @@
 # 💫 About Me:
-Task-driven, hardworking, flexible and organized student<br>Passionate about using technology to tackle new challenges and solve complex problems.<br>Always dedicated and motivated to learn new things
+Task-driven, hardworking, flexible and organized student<br>Passionate about using technology to tackle new challenges and solve complex problems<br>Always dedicated and motivated to learn new things
 
 
 ## 🌐 Socials:
