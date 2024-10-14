@@ -1,9 +1,14 @@
-# 💫 About Me:
-Task-driven, hardworking, flexible and organized student<br>Passionate about using technology to tackle new challenges and solve complex problems<br>Always dedicated and motivated to learn new things
+<h1 align="center"><b>Hi! I'm Melvern Lim</b> 👋</h1>
 
+<h4 align="center">A hardworking student with a passion for problem-solving and coding. 💻</h4>
+<h4 align="center">Enjoys trying out different things and learning more technologies. 🤖</h4>
+<h4 align="center">Determined to learn from any situation, grow as an individual and assist others. 💪</h4>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/melvernlim) 
+<h2>Technologies I know ⚙️:</h2> 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=angular,arduino,blender,cpp,css,figma,gcp,git,html,java,js,py,react,scala&perline=10)](https://skillicons.dev)
+
+<h2>Contact me 🤝:</h2>
+  <a href="https://www.linkedin.com/in/melvernlim/" target="blank"><img align="center" src="" alt="linkedin" height="50" width="50"></a>
+  <a href="https://www.instagram.com/melvy_13/" target="blank"><img align="center" src="" alt="instagram" height="50" width="50"></a>
+  <a href="https://discordapp.com/users/412945288244756483" target="blank"><img align="center" src="" alt="discord" height="50" width="50"></a>
