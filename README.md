@@ -9,6 +9,6 @@
   [![My Skills](https://skillicons.dev/icons?i=angular,arduino,blender,cpp,css,figma,gcp,git,html,java,js,py,react,scala&perline=10)](https://skillicons.dev)
 
 <h2>Contact me 🤝:</h2>
-  <a href="https://www.linkedin.com/in/melvernlim/" target="blank"><img align="center" src="" alt="linkedin" height="50" width="50"></a>
-  <a href="https://www.instagram.com/melvy_13/" target="blank"><img align="center" src="" alt="instagram" height="50" width="50"></a>
-  <a href="https://discordapp.com/users/412945288244756483" target="blank"><img align="center" src="" alt="discord" height="50" width="50"></a>
+<a href="https://www.linkedin.com/in/melvernlim/" target="blank"><img align="center" src="linkedin.png" alt="linkedin" height="50" width="50"></a>&nbsp;
+<a href="https://www.instagram.com/melvy_13/" target="blank"><img align="center" src="instagram.png" alt="instagram" height="50" width="50"></a>&nbsp;
+<a href="https://discordapp.com/users/412945288244756483" target="blank"><img align="center" src="discord.png" alt="discord" height="50" width="50"></a>
