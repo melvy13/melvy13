@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi! I'm Melvern Lim</b> 👋</h1>
 
-<h4 align="center">A hardworking student with a passion for problem-solving and coding. 💻</h4>
-<h4 align="center">Enjoys trying out different things and learning more technologies. 🤖</h4>
-<h4 align="center">Determined to learn from any situation, grow as an individual and assist others. 💪</h4>
+<h3 align="center">A hardworking student with a passion for problem-solving and coding. 💻</h3>
+<h3 align="center">Enjoys trying out different things and learning more technologies. 🤖</h3>
+<h3 align="center">Determined to learn from any situation, grow as an individual and assist others. 💪</h3>
 
 <h2>Technologies I know ⚙️:</h2> 
 
