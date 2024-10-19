@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi! I'm Melvern Lim</b> 👋</h1>
+<h1 align="center"><b>Oh hi! You found me! :D</b><br>I'm Melvern Lim</b>👋</h1>
 
 <h3 align="center">A hardworking student with a passion for problem-solving and coding. 💻</h3>
 <h3 align="center">Enjoys trying out different things and learning more technologies. 🤖</h3>
