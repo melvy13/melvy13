@@ -1,3 +1,5 @@
+<img align="center" src="banner.png" alt="banner" width="100%">
+
 <h1 align="center"><b>Oh hi! You found me! :D</b><br>I'm Melvern Lim</b>👋</h1>
 
 <h3 align="center">A diligent student with a passion for problem-solving and coding. 💻</h3>
