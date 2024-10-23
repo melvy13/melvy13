@@ -1,11 +1,11 @@
 <img align="center" src="banner.png" alt="banner" width="100%">
 
-<h1 align="center"><b>Oh hi! You found me! :D</b><br>I'm Melvern Lim</b>👋</h1>
+<h1 align="center"><b>Hi! I'm Melvern Lim</b>👋</h1>
 
 <h3 align="center">A diligent student with a passion for problem-solving and coding. 💻</h3>
 <h3 align="center">Enjoys trying out different things and learning more technologies. 🤖</h3>
 <h3 align="center">Determined to learn from any situation, grow as an individual and assist others. 💪</h3>
-<h4 align="center">Visit my <a href="https://melvy13.github.io/">Portfolio</a> 📚 :)</h4>
+<!-- <h4 align="center">Visit my <a href="https://melvy13.github.io/">Portfolio</a> 📚 :)</h4> -->
 
 <h2>Technologies I know ⚙️:</h2> 
 
