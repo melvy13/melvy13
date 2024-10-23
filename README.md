@@ -6,6 +6,7 @@
 <h3 align="center">Enjoys trying out different things and learning more technologies. 🤖</h3>
 <h3 align="center">Determined to learn from any situation, grow as an individual and assist others. 💪</h3>
 <!-- <h4 align="center">Visit my <a href="https://melvy13.github.io/">Portfolio</a> 📚 :)</h4> -->
+<h4 align="center">October 31 is definitely equal to December 25.</h4>
 
 <h2>Technologies I know ⚙️:</h2> 
 
