@@ -8,7 +8,7 @@
 
 <h2>Technologies I know ⚙️:</h2> 
 
-  [![My Skills](https://skillicons.dev/icons?i=arduino,blender,cpp,css,figma,gcp,git,html,java,js,py,qt,react,ts,scala&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arduino,blender,cpp,css,figma,gcp,git,html,java,js,mongodb,mysql,py,qt,react,ts,scala&perline=10)](https://skillicons.dev)
 
 <h2>Contact me 🤝:</h2>
 <a href="https://www.linkedin.com/in/melvernlim/" target="blank"><img align="center" src="linkedin.png" alt="linkedin" height="50" width="50"></a>&nbsp;
